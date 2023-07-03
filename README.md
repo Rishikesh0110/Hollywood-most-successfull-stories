@@ -1,16 +1,22 @@
 
-# Hollywood most profitable stories
+# Hollywood most profitable stories_Dashborad_tableau
 
-This data tells about Title, genre, studio, profitability and ratings for movies released 2007-2012, Analysing diffrent factors which can states most profitable stroy ,lead studio profitability % total gross.
+This data tells about Title, genre, studio, profitability and ratings for movies released 2007-2012, Analysing diffrent factors which can states most profitable stroy ,lead studio profitability % total gross. So created a interactive dashboard which has sufficient numer of high quality charts which can represents the all data.
 
-
-# Hi, I'm Rishikesh! 👋 I usually upload multple data anlysis projects and models
-
-@Rishikesh0110
-## Roadmap
-
+# Used tool 
 - Used Tableau version 2022.4
+## About Data
+Title, genre, studio, profitability and ratings for movies released 2007-2012.
+Data: https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv Objective: Create a dashboard and present your insights
 
+## Questions can be derived
+1. Which genre is most sucessfull in Action, comedy, Romantic etc?
+2. Which studio is leading in terms of profits?
+3. What is wordwine gross in every year( 2007 to 2012)?
+4. Which genre is on top in each year?
+5. Which films are most sucessful?
+6. Which movie has highest ratings?
+## Techaniques and steps
 Methods & steps used for projects
 1. First analysed top profitable genre ,in which i dragged genre as filter, drag profitability and changed measure to sum ,than drag genre & sum as title and dragged genre as color.  Here we can find the graph which will represent the top profitable genre b/w 2011 to 2017.
 
@@ -29,3 +35,6 @@ Methods & steps used for projects
 8. To findout worldwide gross collection year wise need to drag year and worldwide gross as rows and column and genre as title and color & worldwide gross as sum as title.
 
 9. Than dragged duffrent simler graphas in dashbord 1 and dashbord 2 .
+
+10. # Conclusion
+11.  So after visualizing the data i make two dashbords which has capabilities to express insights.
